@@ -1,0 +1,254 @@
+city,datetime,temp,conditions
+Vancouver,2025-01-05,5.8,"Rain, Partially cloudy"
+Vancouver,2025-01-06,4.7,Partially cloudy
+Vancouver,2025-01-07,4.5,"Rain, Partially cloudy"
+Vancouver,2025-01-08,6.3,"Rain, Partially cloudy"
+Vancouver,2025-01-09,6.3,"Rain, Partially cloudy"
+Vancouver,2025-01-10,6.8,"Rain, Partially cloudy"
+Vancouver,2025-01-11,5.1,Partially cloudy
+Vancouver,2025-01-12,4.2,Partially cloudy
+Vancouver,2025-01-13,3.7,Partially cloudy
+Vancouver,2025-01-14,4.3,Partially cloudy
+Vancouver,2025-01-15,4.4,Clear
+Vancouver,2025-01-16,4.7,Partially cloudy
+Vancouver,2025-01-17,6.0,Partially cloudy
+Vancouver,2025-01-18,7.2,Overcast
+Surrey,2025-01-05,6.0,"Rain, Partially cloudy"
+Surrey,2025-01-06,3.9,Partially cloudy
+Surrey,2025-01-07,3.6,"Rain, Partially cloudy"
+Surrey,2025-01-08,5.9,"Rain, Partially cloudy"
+Surrey,2025-01-09,5.8,"Rain, Partially cloudy"
+Surrey,2025-01-10,6.7,"Rain, Partially cloudy"
+Surrey,2025-01-11,4.8,Partially cloudy
+Surrey,2025-01-12,3.9,Partially cloudy
+Surrey,2025-01-13,2.4,Partially cloudy
+Surrey,2025-01-14,2.1,Partially cloudy
+Surrey,2025-01-15,2.3,"Snow, Rain"
+Surrey,2025-01-16,2.8,"Rain, Partially cloudy"
+Surrey,2025-01-17,4.8,Partially cloudy
+Surrey,2025-01-18,6.6,Overcast
+Burnaby,2025-01-05,5.9,"Rain, Partially cloudy"
+Burnaby,2025-01-06,4.2,Partially cloudy
+Burnaby,2025-01-07,4.0,"Rain, Partially cloudy"
+Burnaby,2025-01-08,6.0,"Rain, Partially cloudy"
+Burnaby,2025-01-09,6.0,"Rain, Partially cloudy"
+Burnaby,2025-01-10,6.6,"Rain, Partially cloudy"
+Burnaby,2025-01-11,4.8,Partially cloudy
+Burnaby,2025-01-12,3.7,Partially cloudy
+Burnaby,2025-01-13,2.5,Partially cloudy
+Burnaby,2025-01-14,2.1,Partially cloudy
+Burnaby,2025-01-15,2.3,"Snow, Rain"
+Burnaby,2025-01-16,2.8,"Rain, Partially cloudy"
+Burnaby,2025-01-17,4.8,Partially cloudy
+Burnaby,2025-01-18,6.6,Overcast
+Richmond,2025-01-06,-0.6,"Snow, Rain, Overcast"
+Richmond,2025-01-07,-3.2,Clear
+Richmond,2025-01-08,-5.4,Clear
+Richmond,2025-01-09,-5.7,Clear
+Richmond,2025-01-10,-4.5,Partially cloudy
+Richmond,2025-01-11,-1.5,"Snow, Rain, Partially cloudy"
+Richmond,2025-01-12,-2.2,Partially cloudy
+Richmond,2025-01-13,-1.0,Partially cloudy
+Richmond,2025-01-14,-4.6,Clear
+Richmond,2025-01-15,-9.3,Partially cloudy
+Richmond,2025-01-16,-2.3,Partially cloudy
+Richmond,2025-01-17,-0.7,Partially cloudy
+Richmond,2025-01-18,-4.1,Partially cloudy
+Richmond,2025-01-19,-5.6,Partially cloudy
+Victoria,2025-01-05,7.4,"Rain, Partially cloudy"
+Victoria,2025-01-06,6.1,Partially cloudy
+Victoria,2025-01-07,5.3,Partially cloudy
+Victoria,2025-01-08,6.5,Partially cloudy
+Victoria,2025-01-09,6.6,"Rain, Partially cloudy"
+Victoria,2025-01-10,7.5,"Rain, Partially cloudy"
+Victoria,2025-01-11,5.7,Partially cloudy
+Victoria,2025-01-12,5.0,Partially cloudy
+Victoria,2025-01-13,3.4,Partially cloudy
+Victoria,2025-01-14,1.6,Partially cloudy
+Victoria,2025-01-15,2.1,Clear
+Victoria,2025-01-16,2.0,Partially cloudy
+Victoria,2025-01-17,3.2,Partially cloudy
+Victoria,2025-01-18,6.3,Overcast
+Coquitlam,2025-01-05,6.0,"Rain, Partially cloudy"
+Coquitlam,2025-01-06,5.1,Clear
+Coquitlam,2025-01-07,5.3,"Rain, Partially cloudy"
+Coquitlam,2025-01-08,6.7,"Rain, Partially cloudy"
+Coquitlam,2025-01-09,6.9,"Rain, Partially cloudy"
+Coquitlam,2025-01-10,7.1,"Rain, Partially cloudy"
+Coquitlam,2025-01-11,5.2,Partially cloudy
+Coquitlam,2025-01-12,4.1,Partially cloudy
+Coquitlam,2025-01-13,0.9,Partially cloudy
+Coquitlam,2025-01-14,-1.8,Partially cloudy
+Coquitlam,2025-01-15,-1.2,"Snow, Rain"
+Coquitlam,2025-01-16,-0.2,"Snow, Rain, Partially cloudy"
+Coquitlam,2025-01-17,0.5,Partially cloudy
+Coquitlam,2025-01-18,1.7,Overcast
+Kelowna,2025-01-05,1.5,"Snow, Rain, Overcast"
+Kelowna,2025-01-06,2.4,Partially cloudy
+Kelowna,2025-01-07,1.9,Partially cloudy
+Kelowna,2025-01-08,2.9,Partially cloudy
+Kelowna,2025-01-09,2.9,Partially cloudy
+Kelowna,2025-01-10,4.0,"Rain, Partially cloudy"
+Kelowna,2025-01-11,2.1,Partially cloudy
+Kelowna,2025-01-12,1.0,Partially cloudy
+Kelowna,2025-01-13,-3.3,Partially cloudy
+Kelowna,2025-01-14,-7.9,Partially cloudy
+Kelowna,2025-01-15,-7.0,Partially cloudy
+Kelowna,2025-01-16,-5.8,Partially cloudy
+Kelowna,2025-01-17,-4.6,"Snow, Overcast"
+Kelowna,2025-01-18,-4.0,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-05,-8.0,Overcast
+Prince George,2025-01-06,-6.0,Partially cloudy
+Prince George,2025-01-07,-2.9,Partially cloudy
+Prince George,2025-01-08,-0.7,Partially cloudy
+Prince George,2025-01-09,-0.1,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-10,0.3,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-11,-3.5,Partially cloudy
+Prince George,2025-01-12,-5.1,Partially cloudy
+Prince George,2025-01-13,-6.1,Partially cloudy
+Prince George,2025-01-14,-2.2,Overcast
+Prince George,2025-01-15,-0.1,Overcast
+Prince George,2025-01-16,-2.8,Overcast
+Prince George,2025-01-17,-5.2,Overcast
+Prince George,2025-01-18,-3.4,Overcast
+Kamloops,2025-01-05,0.8,Overcast
+Kamloops,2025-01-06,0.4,Partially cloudy
+Kamloops,2025-01-07,-0.2,Partially cloudy
+Kamloops,2025-01-08,0.9,Partially cloudy
+Kamloops,2025-01-09,2.3,Partially cloudy
+Kamloops,2025-01-10,3.2,"Rain, Partially cloudy"
+Kamloops,2025-01-11,-0.3,Partially cloudy
+Kamloops,2025-01-12,-0.4,Partially cloudy
+Kamloops,2025-01-13,-5.0,Partially cloudy
+Kamloops,2025-01-14,-8.6,Partially cloudy
+Kamloops,2025-01-15,-8.6,Partially cloudy
+Kamloops,2025-01-16,-5.5,Overcast
+Kamloops,2025-01-17,-5.6,"Snow, Overcast"
+Kamloops,2025-01-18,-5.1,Partially cloudy
+Vancouver,2025-01-05,5.8,"Rain, Partially cloudy"
+Vancouver,2025-01-07,3.2,"Rain, Partially cloudy"
+Vancouver,2025-01-08,5.9,"Rain, Partially cloudy"
+Vancouver,2025-01-09,5.7,"Rain, Partially cloudy"
+Vancouver,2025-01-10,6.1,"Rain, Partially cloudy"
+Vancouver,2025-01-11,4.9,Partially cloudy
+Vancouver,2025-01-12,3.9,Partially cloudy
+Vancouver,2025-01-13,3.3,Partially cloudy
+Vancouver,2025-01-14,4.7,Partially cloudy
+Vancouver,2025-01-15,5.2,Partially cloudy
+Vancouver,2025-01-16,4.9,"Rain, Partially cloudy"
+Vancouver,2025-01-17,4.3,"Rain, Partially cloudy"
+Vancouver,2025-01-18,3.0,Partially cloudy
+Vancouver,2025-01-19,2.8,Partially cloudy
+Vancouver,2025-01-20,-2.6,Clear
+Surrey,2025-01-07,2.1,"Rain, Partially cloudy"
+Surrey,2025-01-08,5.6,"Rain, Partially cloudy"
+Surrey,2025-01-09,5.0,"Rain, Partially cloudy"
+Surrey,2025-01-10,5.8,"Rain, Partially cloudy"
+Surrey,2025-01-11,4.8,Partially cloudy
+Surrey,2025-01-12,3.4,Partially cloudy
+Surrey,2025-01-13,2.6,Partially cloudy
+Surrey,2025-01-14,3.1,Partially cloudy
+Surrey,2025-01-15,3.4,Partially cloudy
+Surrey,2025-01-16,3.5,"Snow, Rain, Partially cloudy"
+Surrey,2025-01-17,2.8,"Snow, Rain, Partially cloudy"
+Surrey,2025-01-18,1.6,Partially cloudy
+Surrey,2025-01-19,0.6,Overcast
+Surrey,2025-01-20,-5.1,Clear
+Burnaby,2025-01-07,2.7,"Rain, Partially cloudy"
+Burnaby,2025-01-08,5.6,"Rain, Partially cloudy"
+Burnaby,2025-01-09,5.4,"Rain, Partially cloudy"
+Burnaby,2025-01-10,5.7,"Rain, Partially cloudy"
+Burnaby,2025-01-11,4.6,Partially cloudy
+Burnaby,2025-01-12,3.4,Partially cloudy
+Burnaby,2025-01-13,2.7,Partially cloudy
+Burnaby,2025-01-14,3.2,Partially cloudy
+Burnaby,2025-01-15,3.4,Partially cloudy
+Burnaby,2025-01-16,3.5,"Snow, Rain, Partially cloudy"
+Burnaby,2025-01-17,2.8,"Snow, Rain, Partially cloudy"
+Burnaby,2025-01-18,1.6,Partially cloudy
+Burnaby,2025-01-19,0.6,Overcast
+Burnaby,2025-01-20,-5.1,Clear
+Richmond,2025-01-08,-5.8,Partially cloudy
+Richmond,2025-01-09,-4.5,Clear
+Richmond,2025-01-10,-3.7,"Snow, Rain, Partially cloudy"
+Richmond,2025-01-11,-0.9,"Snow, Rain, Partially cloudy"
+Richmond,2025-01-12,-1.8,Clear
+Richmond,2025-01-13,-1.5,Partially cloudy
+Richmond,2025-01-14,-4.0,Clear
+Richmond,2025-01-15,-7.4,Clear
+Richmond,2025-01-16,-6.2,Partially cloudy
+Richmond,2025-01-17,-2.4,Clear
+Richmond,2025-01-18,-1.0,Overcast
+Richmond,2025-01-19,1.2,Partially cloudy
+Richmond,2025-01-20,-3.9,Partially cloudy
+Richmond,2025-01-21,1.7,Partially cloudy
+Victoria,2025-01-07,5.2,"Rain, Partially cloudy"
+Victoria,2025-01-08,6.4,"Rain, Partially cloudy"
+Victoria,2025-01-09,6.0,"Rain, Partially cloudy"
+Victoria,2025-01-10,7.1,"Rain, Partially cloudy"
+Victoria,2025-01-11,5.9,Partially cloudy
+Victoria,2025-01-12,4.8,Partially cloudy
+Victoria,2025-01-13,4.2,Partially cloudy
+Victoria,2025-01-14,3.3,Partially cloudy
+Victoria,2025-01-15,2.8,Partially cloudy
+Victoria,2025-01-16,3.7,Clear
+Victoria,2025-01-17,2.2,"Snow, Rain, Partially cloudy"
+Victoria,2025-01-18,1.3,Partially cloudy
+Victoria,2025-01-19,-0.1,Overcast
+Victoria,2025-01-20,-4.6,Partially cloudy
+Coquitlam,2025-01-07,2.3,"Rain, Partially cloudy"
+Coquitlam,2025-01-08,6.2,"Rain, Partially cloudy"
+Coquitlam,2025-01-09,6.3,"Rain, Partially cloudy"
+Coquitlam,2025-01-10,6.1,"Rain, Partially cloudy"
+Coquitlam,2025-01-11,4.9,Partially cloudy
+Coquitlam,2025-01-12,3.6,Partially cloudy
+Coquitlam,2025-01-13,3.1,Partially cloudy
+Coquitlam,2025-01-14,-0.5,Partially cloudy
+Coquitlam,2025-01-15,-0.8,Partially cloudy
+Coquitlam,2025-01-16,-1.2,"Snow, Rain, Partially cloudy"
+Coquitlam,2025-01-17,-2.5,"Snow, Rain, Partially cloudy"
+Coquitlam,2025-01-18,-3.6,Overcast
+Coquitlam,2025-01-19,-5.3,Partially cloudy
+Coquitlam,2025-01-20,-13.7,Clear
+Kelowna,2025-01-07,2.2,Overcast
+Kelowna,2025-01-08,3.2,Partially cloudy
+Kelowna,2025-01-09,2.3,Partially cloudy
+Kelowna,2025-01-10,3.5,"Rain, Partially cloudy"
+Kelowna,2025-01-11,2.4,Partially cloudy
+Kelowna,2025-01-12,1.2,Partially cloudy
+Kelowna,2025-01-13,0.4,Partially cloudy
+Kelowna,2025-01-14,-4.2,Partially cloudy
+Kelowna,2025-01-15,-3.7,Partially cloudy
+Kelowna,2025-01-16,-3.0,"Snow, Partially cloudy"
+Kelowna,2025-01-17,-5.2,"Snow, Rain, Partially cloudy"
+Kelowna,2025-01-18,-7.9,"Snow, Partially cloudy"
+Kelowna,2025-01-19,-8.7,Partially cloudy
+Kelowna,2025-01-20,-18.5,Partially cloudy
+Prince George,2025-01-07,0.4,"Snow, Rain, Overcast"
+Prince George,2025-01-08,-0.6,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-09,-0.8,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-10,0.2,"Snow, Rain, Partially cloudy"
+Prince George,2025-01-11,-3.6,Partially cloudy
+Prince George,2025-01-12,-5.5,Partially cloudy
+Prince George,2025-01-13,-5.4,Partially cloudy
+Prince George,2025-01-14,0.0,Overcast
+Prince George,2025-01-15,-3.3,Overcast
+Prince George,2025-01-16,-1.7,"Snow, Rain, Overcast"
+Prince George,2025-01-17,-6.4,Partially cloudy
+Prince George,2025-01-18,-11.9,Overcast
+Prince George,2025-01-19,-17.3,Partially cloudy
+Prince George,2025-01-20,-29.5,Clear
+Kamloops,2025-01-07,2.1,Partially cloudy
+Kamloops,2025-01-08,1.2,Partially cloudy
+Kamloops,2025-01-09,1.2,Partially cloudy
+Kamloops,2025-01-10,2.4,"Snow, Rain, Partially cloudy"
+Kamloops,2025-01-11,0.0,Partially cloudy
+Kamloops,2025-01-12,-0.5,Partially cloudy
+Kamloops,2025-01-13,-0.8,Partially cloudy
+Kamloops,2025-01-14,-4.8,Partially cloudy
+Kamloops,2025-01-15,-4.7,Partially cloudy
+Kamloops,2025-01-16,-2.9,"Snow, Rain, Partially cloudy"
+Kamloops,2025-01-17,-6.6,Partially cloudy
+Kamloops,2025-01-18,-10.8,Overcast
+Kamloops,2025-01-19,-10.3,Partially cloudy
+Kamloops,2025-01-20,-20.6,Partially cloudy
